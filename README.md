@@ -21,6 +21,7 @@ If set, the role will set the global environment variable `JAVA_HOME` to this va
 
 ## Example Playbook
 
+    ---
     - hosts: servers
       roles:
         - ansible-java
