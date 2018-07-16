@@ -1,10 +1,10 @@
 # Ansible Role: Java
 
+Installs Java for RedHat/CentOS and Debian/Ubuntu linux servers.
+
 ## Best Practice 
 
 Use latest Ansible Version
-
-Installs Java for RedHat/CentOS and Debian/Ubuntu linux servers.
 
 ## Role Variables
 
