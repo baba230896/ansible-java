@@ -12,8 +12,6 @@ Available variables are listed below, along with default values:
 
     # The defaults provided by this role are specific to each distribution.
     java_packages: []
-    
-    By Default: Java v8
 
 Set the version/development kit of Java to install, along with any other necessary Java packages. Some other options include are included in the distribution-specific files in this role's 'defaults' folder.
 
