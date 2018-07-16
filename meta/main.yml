@@ -2,10 +2,7 @@
 dependencies: []
 
 galaxy_info:
-  author: geerlingguy
   description: Java for Linux
-  company: "Midwestern Mac, LLC"
-  license: "license (BSD, MIT)"
   min_ansible_version: 2.4
   platforms:
     - name: EL
